@@ -1,0 +1,7 @@
+// COUNTER ACTION
+export const INCREMENT = 'INCREMENT'
+export const DECREMENT = 'DECREMENT'
+export const RESET_COUNTER = 'RESET_COUNTER'
+
+// TODO ACTION
+export const ADD_TODO = 'ADD_TODO'
