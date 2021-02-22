@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055083373334",
+    "project_id": "g2academy-afaf8",
+    "storage_bucket": "g2academy-afaf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055083373334:android:9a0e17e1d503d685e9e637",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055083373334-otsvv7tu8jirbcernd9hjjujaq1rvp7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItZ_VxVSl7YnVaq67s1izk9K_ktXmJL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055083373334-otsvv7tu8jirbcernd9hjjujaq1rvp7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
